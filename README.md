@@ -56,11 +56,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/omaomach/github-readme-activity-graph"><img alt="Omao's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=omaomach&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Connect with me:
 <p align="left">
 
@@ -70,9 +65,3 @@
 <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/omaomach/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=omaomach">
-</a>
-<a href="https://github.com/omaomach?tab=followers"><img src="https://img.shields.io/github/followers/omaomach?label=Followers&style=social" alt="GitHub Badge"></a>****
