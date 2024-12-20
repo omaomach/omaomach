@@ -1,8 +1,3 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Omao</h1>
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Omao
 
-<p align="center">
-    <a href="https://github.com/omaomach/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Omao's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=omaomach&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=omaomach&theme=dark&hide_border=true&background=060A0CD0)](https://git.io/streak-stats)
